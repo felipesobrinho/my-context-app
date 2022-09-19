@@ -1,19 +1,19 @@
-# Welcome to my context app project!
+# My Context App
 
-Este é o projeto inicial que foi utilizado no vídeo https://www.youtube.com/watch?v=CuGMR1oupyQ
+App CRUD, desenvolvido para exercitar o uso de React, Typescript, React-Hooks e Context API.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/CuGMR1oupyQ/0.jpg)](https://www.youtube.com/watch?v=CuGMR1oupyQ)
+Deployed <a href="https://dio-pwa-covid19.vercel.app/">here</a>
+
+# Techs
+
+- [x] React
+- [x] Typescript
+- [x] Context API
+
+
 
 ## Como rodar o projeto
 
 1 - Instale as dependencias com `yarn` ou `npm install`
 
 2 - Rode o projeto com `yarn start` ou `npm run start`
-
-## Versão final
-
-Se você está procurando pela versão final do projeto, com tudo que foi feito no vídeo, basta migrar para a branch `develop`.
-
-```bash
-git checkout develop
-```

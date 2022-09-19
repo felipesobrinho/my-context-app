@@ -1,5 +1,14 @@
-# My Context App
-<p align="center">Deployed <a href="https://dio-pwa-covid19.vercel.app/">here</a>.</p>
+# My Context 
+
+Deployed <a href="https://dio-pwa-covid19.vercel.app/">here</a>
+
+# Techs
+
+- [x] React
+- [x] Typescript
+- [x] Context API
+
+
 
 ## Como rodar o projeto
 

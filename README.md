@@ -4,6 +4,8 @@ App CRUD, desenvolvido para exercitar o uso de React, Typescript, React-Hooks e 
 
 Deployed <a href="https://mycontextapp.netlify.app/">here</a>
 
+<strong>O site conta com Theme Selector, podendo ser light ou dark <strong/>
+
 # Techs
 
 - [x] React

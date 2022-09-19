@@ -2,7 +2,7 @@
 
 App CRUD, desenvolvido para exercitar o uso de React, Typescript, React-Hooks e Context API.
 
-Deployed <a href="https://dio-pwa-covid19.vercel.app/">here</a>
+Deployed <a href="https://mycontextapp.netlify.app/">here</a>
 
 # Techs
 
